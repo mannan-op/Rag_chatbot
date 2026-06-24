@@ -1,0 +1,24 @@
+{
+  "samples": [
+    {
+      "document_id": null,
+      "question": "What caused enterprise sales cycles to slow?",
+      "answer": "Enterprise sales cycles slowed primarily because regulated customers required longer security and procurement reviews.",
+      "contexts": [
+        "Enterprise sales cycles expanded as regulated customers introduced additional security reviews and procurement approvals.",
+        "Self-service customer conversion remained stable during the quarter."
+      ],
+      "ground_truth": "Additional security and procurement reviews from regulated customers lengthened enterprise sales cycles."
+    },
+    {
+      "document_id": null,
+      "question": "Why did gross margin decline?",
+      "answer": "Gross margin declined because inference and retrieval infrastructure costs grew faster than revenue.",
+      "contexts": [
+        "Inference and retrieval workloads increased faster than forecast, creating pressure on gross margin.",
+        "Revenue increased during the reporting period."
+      ],
+      "ground_truth": "Gross margin declined because inference and retrieval workload costs increased faster than expected."
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+ragas==0.4.3
+openai>=1.99.0,<3.0.0
+supabase>=2.15.0,<3.0.0
+python-dotenv>=1.0.0,<2.0.0

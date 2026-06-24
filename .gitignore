@@ -1,0 +1,82 @@
+# Dependencies
+node_modules/
+
+# Build output and caches
+dist/
+build/
+out/
+.vite/
+.cache/
+.parcel-cache/
+.turbo/
+coverage/
+*.tsbuildinfo
+
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.pem
+*.key
+*.crt
+
+# Logs and runtime files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.pid
+*.pid.lock
+
+# Test output
+.nyc_output/
+test-results/
+playwright-report/
+blob-report/
+
+# Python / RAGAS
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Supabase local development state
+supabase/.branches/
+supabase/.temp/
+supabase/.env
+
+# RuFlo / Claude Flow runtime state
+.claude-flow/
+.swarm/
+ruvector.db
+*.db-shm
+*.db-wal
+
+# Codex local configuration
+.codex/
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
