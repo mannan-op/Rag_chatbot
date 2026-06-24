@@ -12,6 +12,8 @@ Stripe, and RAGAS.
 ![Supabase](https://img.shields.io/badge/Supabase-pgvector-3FCF8E?logo=supabase)
 ![Node.js](https://img.shields.io/badge/Node.js-20%2B-339933?logo=nodedotjs)
 
+<img width="1895" height="901" alt="image" src="https://github.com/user-attachments/assets/ffb32b85-0567-4af0-a23b-cd1351ad98a2" />
+
 ## Highlights
 
 - Supabase email/password authentication and protected application routes
